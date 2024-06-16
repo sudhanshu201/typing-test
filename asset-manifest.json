@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sudhanshu201/typing-test.git/static/css/main.ac89790e.css",
-    "main.js": "/sudhanshu201/typing-test.git/static/js/main.5ee0e1d7.js",
-    "static/js/453.f47339d5.chunk.js": "/sudhanshu201/typing-test.git/static/js/453.f47339d5.chunk.js",
-    "index.html": "/sudhanshu201/typing-test.git/index.html",
-    "main.ac89790e.css.map": "/sudhanshu201/typing-test.git/static/css/main.ac89790e.css.map",
-    "main.5ee0e1d7.js.map": "/sudhanshu201/typing-test.git/static/js/main.5ee0e1d7.js.map",
-    "453.f47339d5.chunk.js.map": "/sudhanshu201/typing-test.git/static/js/453.f47339d5.chunk.js.map"
+    "main.css": "/typing-test/static/css/main.ac89790e.css",
+    "main.js": "/typing-test/static/js/main.9244d089.js",
+    "static/js/453.f47339d5.chunk.js": "/typing-test/static/js/453.f47339d5.chunk.js",
+    "index.html": "/typing-test/index.html",
+    "main.ac89790e.css.map": "/typing-test/static/css/main.ac89790e.css.map",
+    "main.9244d089.js.map": "/typing-test/static/js/main.9244d089.js.map",
+    "453.f47339d5.chunk.js.map": "/typing-test/static/js/453.f47339d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac89790e.css",
-    "static/js/main.5ee0e1d7.js"
+    "static/js/main.9244d089.js"
   ]
 }
